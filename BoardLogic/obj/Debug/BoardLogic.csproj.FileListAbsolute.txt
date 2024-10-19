@@ -1,0 +1,6 @@
+C:\Users\Jensen\source\repos\BoardLogic\bin\Debug\BoardLogic.dll
+C:\Users\Jensen\source\repos\BoardLogic\bin\Debug\BoardLogic.pdb
+C:\Users\Jensen\source\repos\BoardLogic\obj\Debug\BoardLogic.csproj.AssemblyReference.cache
+C:\Users\Jensen\source\repos\BoardLogic\obj\Debug\BoardLogic.csproj.CoreCompileInputs.cache
+C:\Users\Jensen\source\repos\BoardLogic\obj\Debug\BoardLogic.dll
+C:\Users\Jensen\source\repos\BoardLogic\obj\Debug\BoardLogic.pdb

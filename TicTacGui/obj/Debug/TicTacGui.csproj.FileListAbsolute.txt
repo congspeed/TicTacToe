@@ -1,0 +1,13 @@
+C:\Users\Jensen\source\repos\TicTacGui\obj\Debug\TicTacGui.csproj.AssemblyReference.cache
+C:\Users\Jensen\source\repos\TicTacGui\obj\Debug\TicTacGui.Form1.resources
+C:\Users\Jensen\source\repos\TicTacGui\obj\Debug\TicTacGui.Properties.Resources.resources
+C:\Users\Jensen\source\repos\TicTacGui\obj\Debug\TicTacGui.csproj.GenerateResource.cache
+C:\Users\Jensen\source\repos\TicTacGui\obj\Debug\TicTacGui.csproj.CoreCompileInputs.cache
+C:\Users\Jensen\source\repos\TicTacGui\bin\Debug\TicTacGui.exe.config
+C:\Users\Jensen\source\repos\TicTacGui\bin\Debug\TicTacGui.exe
+C:\Users\Jensen\source\repos\TicTacGui\bin\Debug\TicTacGui.pdb
+C:\Users\Jensen\source\repos\TicTacGui\bin\Debug\BoardLogic.dll
+C:\Users\Jensen\source\repos\TicTacGui\bin\Debug\BoardLogic.pdb
+C:\Users\Jensen\source\repos\TicTacGui\obj\Debug\TicTacGui.csproj.Up2Date
+C:\Users\Jensen\source\repos\TicTacGui\obj\Debug\TicTacGui.exe
+C:\Users\Jensen\source\repos\TicTacGui\obj\Debug\TicTacGui.pdb
